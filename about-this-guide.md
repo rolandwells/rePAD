@@ -20,10 +20,6 @@ Roland
 
 [http://imagineher.org](http://imagineher.org)
 
-## About Projects For All
-
-[http://projectsforall.org](http://projectsforall.org)
-
 # License
 
 Copyright \(c\) 2017 Imagine Her. All rights reserved.
