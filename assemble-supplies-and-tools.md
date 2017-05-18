@@ -1,2 +1,2 @@
-![](/assets/rePAD_holder.png)
+![](/assets/RePad2_reduced.jpg)
 
