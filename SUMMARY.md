@@ -9,6 +9,8 @@
 * [Create button hole & sew button opposite](create-button-hole-and-sew-button-opposite.md)
 * [Assemble absorbing insert](assemble-absorbing-insert.md)
 * [Combine and final assembly](combine-and-final-assembly.md)
-* [Try our your new rePAD!](try-our-your-new-repad!.md)
+* [Try out your new rePAD!](try-our-your-new-repad!.md)
 * [About this guide](about-this-guide.md)
+
+
 
